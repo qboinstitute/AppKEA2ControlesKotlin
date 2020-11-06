@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppKEA2ControlesKotlin</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valtvgenero">Seleccione su género</string>
+    <string name="valrbmasculino">Masculino</string>
+    <string name="valrbfemenino">Femenino</string>
+    <string name="valtvestadocivil">Seleccione estado civil</string>
+    <string name="valtvpreferencia">Seleccione sus preferencias</string>
+    <string name="valcbdeporte">Deporte</string>
+    <string name="valcbdibujo">Dibujo</string>
+    <string name="valcbotros">Otros</string>
+    <string name="valbtnregistrar">REGISTRAR</string>
+    <string name="valbtnlistar">LISTAR</string>
+    <string name="valswemail">¿Notificar por email?</string>
+    <string name="valtvtitulolista">LISTA DE USUARIOS</string>
+    <string name="errorNombreApellido">Ingrese su nombre o apellido</string>
+    <string name="errorGenero">Seleccione un género</string>
+    <string name="errorEstadoCivil">Seleccione su estado civil.</string>
+    <string name="errorPreferencias">Seleccione al menos una preferencia</string>
+</resources>
